@@ -1,0 +1,11 @@
+PoC/Calculator/bin/
+PoC/Calculator/obj/
+PoC/Google/bin/
+PoC/Google/obj/Google.csproj.nuget.dgspec.json
+PoC/Google/obj/project.assets.json
+PoC/Google/obj/
+PoC/PoCSpecflow/.vs/
+PoC/PoCSpecflow/bin/Debug/netcoreapp3.1/BoDi.dll
+PoC/PoCSpecflow/bin/
+PoC/PoCSpecflow/obj/
+PoC/PoCSpecflow/TestResults/
